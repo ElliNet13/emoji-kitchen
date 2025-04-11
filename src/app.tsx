@@ -38,6 +38,7 @@ const colors = [
 
 const theme = createTheme({
   palette: {
+    mode: "dark", // Enable dark mode
     primary: colors[Math.floor(Math.random() * colors.length)],
   },
 });
