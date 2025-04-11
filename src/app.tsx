@@ -13,6 +13,7 @@ import {
   pink,
   purple,
   teal,
+  black,
 } from "@mui/material/colors";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 import Footer from "./Components/footer";
@@ -34,6 +35,7 @@ const colors = [
   pink,
   purple,
   teal,
+  black,
 ];
 
 const theme = createTheme({
